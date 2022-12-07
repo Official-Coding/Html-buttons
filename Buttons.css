@@ -1,0 +1,28 @@
+ .Request-Now {
+   color: white;
+   background-color: black;
+   border: none;
+   margin: 8px;
+   height: 36px;
+   cursor: pointer;
+   transition: opacity 0.15s;
+   }
+   
+   .Request-Now:hover {
+     opacity: 0.7;
+   }
+   
+   .Add-To-Cart  {
+     background-color: rgb(255, 216, 20);
+   cursor: pointer;
+   height: 36px;
+   width: 200px;
+   border: none;
+   border-radius: 105px;
+   transition: box-shadow 0.15s;
+   }
+       
+    .Add-To-Cart:hover {
+      box-shadow: 2.5px 5px 2.5px rgba(0,0,0,1);
+    }
+    
